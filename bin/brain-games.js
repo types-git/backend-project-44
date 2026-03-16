@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import firstMessage from '../scr/cli.js';
+import firstMessage from '../src/cli.js';
 
 firstMessage();
