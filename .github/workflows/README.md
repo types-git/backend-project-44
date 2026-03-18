@@ -4,4 +4,10 @@ After completing all the steps in the project, automatic tests will become avail
 
 The hexlet-check.yml file is responsible for running these tests - do not delete this file, edit it, or rename the repository.
 
+
+## SonarCube
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=types-git_backend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=types-git_backend-project-44)
+
+
+## Asciinema
+[![asciicast](https://asciinema.org/a/Bknp66HTKujXIeue.svg)](https://asciinema.org/a/Bknp66HTKujXIeue)
