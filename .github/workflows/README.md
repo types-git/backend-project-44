@@ -11,3 +11,6 @@ The hexlet-check.yml file is responsible for running these tests - do not delete
 
 ## Asciinema
 [![asciicast](https://asciinema.org/a/Bknp66HTKujXIeue.svg)](https://asciinema.org/a/Bknp66HTKujXIeue)
+
+## Asciinema
+[![asciicast](https://asciinema.org/a/Bknp66HTKujXIeue.svg)](https://asciinema.org/a/QWN79JcrPkdqFF2D)
