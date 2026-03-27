@@ -17,3 +17,6 @@ The hexlet-check.yml file is responsible for running these tests - do not delete
 
 ## Asciinema (brain-gcd)
 [![asciicast](https://asciinema.org/a/vPezkjpJFelcSG9z.svg)](https://asciinema.org/a/vPezkjpJFelcSG9z)
+
+## Asciinema (brain-progression)
+[![asciicast](https://asciinema.org/a/jV1rwjA7MW63qwNX.svg)](https://asciinema.org/a/jV1rwjA7MW63qwNX)
