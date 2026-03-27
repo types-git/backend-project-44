@@ -13,7 +13,6 @@ for (let i = 0; i < 3; i++) {
     const start = Math.floor(Math.random() * 6) + 1;
     const step = Math.floor(Math.random() * 6) + 1;
 
-
     let result = [];
     let current = start;
     for (let j = 0; j < length; j++) {
@@ -31,7 +30,7 @@ for (let i = 0; i < 3; i++) {
     const answer = readlineSync.question('Your answer: ');
 
     if (Number(answer) === correctAnswer) {
-        counter += 1;
+        counter++;
         console.log('Correct');
     } else {
         console.log(`'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
