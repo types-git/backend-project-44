@@ -20,3 +20,6 @@ The hexlet-check.yml file is responsible for running these tests - do not delete
 
 ## Asciinema (brain-progression)
 [![asciicast](https://asciinema.org/a/jV1rwjA7MW63qwNX.svg)](https://asciinema.org/a/jV1rwjA7MW63qwNX)
+
+## Asciinema (brain-prime)
+[![asciicast](https://asciinema.org/a/PWBZtXYUX9lONt2H.svg)](https://asciinema.org/a/PWBZtXYUX9lONt2H)
