@@ -11,7 +11,7 @@ const mainGame = (description, gameInfo) => {
     console.log(`Question: ${question}`)
     const answer = readlineSync.question('Your answer: ')
 
-    if (answer === correctAnswer) {
+    if (answer == correctAnswer) {
       console.log('Correct')
     }
     else {
