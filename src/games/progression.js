@@ -21,7 +21,7 @@ const progression = () => {
 
   return {
     question: result.join(' '),
-    correctAnswer: correctAnswer,
+    correctAnswer: String(correctAnswer),
   }
 }
 
