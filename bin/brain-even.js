@@ -24,7 +24,7 @@ for (let i = 0; i < 3; i++) {
         console.log('Correct');
     } else {
         console.log(`'${answer}' is wrong answer ;(. Correct answer was '${anotherAnswer}'`);
-        console.log(`Let's try again, ${name}`);
+        console.log(`Let's try again, ${name}!`);
         break;
     }
 }
